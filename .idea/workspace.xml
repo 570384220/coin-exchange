@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e694687-4709-4aaf-af74-997d120e9d62" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="F:/JAVA/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="F:\JAVA\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="399VaVFwWothAyYRDSt2zPuQfNl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\go_work_space\coin-exchange\coin-iaas" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e694687-4709-4aaf-af74-997d120e9d62" name="Default Changelist" comment="" />
+      <created>1770108336112</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770108336112</updated>
+      <workItem from="1770108338989" duration="2346000" />
+      <workItem from="1770111787125" duration="2794000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="880" y="181" key="#Project_Structure" timestamp="1770109028146">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="880" y="181" key="#Project_Structure/0.0.1920.1032@0.0.1920.1032" timestamp="1770109028146" />
+    <state width="1877" height="302" key="GridCell.Tab.0.bottom" timestamp="1770117969640">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="302" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1770117969640" />
+    <state width="1877" height="302" key="GridCell.Tab.0.center" timestamp="1770117969640">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="302" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1770117969640" />
+    <state width="1877" height="302" key="GridCell.Tab.0.left" timestamp="1770117969640">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="302" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1770117969640" />
+    <state width="1877" height="302" key="GridCell.Tab.0.right" timestamp="1770117969640">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="302" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1770117969640" />
+    <state x="461" y="160" key="SettingsEditor" timestamp="1770112099471">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="461" y="160" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1770112099471" />
+    <state x="669" y="273" key="new project wizard" timestamp="1770109318079">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="669" y="273" key="new project wizard/0.0.1920.1032@0.0.1920.1032" timestamp="1770109318079" />
+  </component>
+</project>
